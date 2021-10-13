@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.home.HomeFragment">
+<LinearLayout
+    android:background="@color/offwhite"
+    android:layout_width="match_parent"
+    android:layout_height="12dp"
+    android:layout_alignParentLeft="true"
+    android:orientation="horizontal">
+    <ImageView
+        android:id="@+id/locationicon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/locationicon"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="8dp"
+        android:text="Deliver to Ramesh-Bangalore 654215"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/downarrow"/>
+</LinearLayout>
+    <RelativeLayout
+        android:id="@+id/home1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:padding="5dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/titledash"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/home2"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:layout_below="@+id/home1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="100dp"
+                android:src="@drawable/drainagecleaner"/>
+        </com.google.android.material.card.MaterialCardView>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:layout_below="@+id/home2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nualgi for cleaning drainage"
+            android:textSize="8dp"
+            android:padding="4dp"/>
+
+</RelativeLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context=".My_Profile">
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edittext_border"
+        android:hint="@string/name"
+        android:layout_marginBottom="5dp"
+        android:textSize="10dp"/>
+
+    <EditText
+        android:id="@+id/mobile"
+        android:layout_below="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edittext_border"
+        android:hint="@string/mobile"
+        android:layout_marginTop="5dp"
+        android:textSize="10dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Update"
+        android:textSize="8dp"
+        android:gravity="center"
+        android:layout_marginRight="4dp"
+        android:textColor="#FF9800"
+        android:layout_alignTop="@+id/mobile"
+        android:layout_alignBottom="@+id/mobile"
+        android:layout_alignRight="@+id/mobile"
+        android:clickable="true"/>
+
+</RelativeLayout>

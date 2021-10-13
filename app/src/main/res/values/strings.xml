@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name" translatable="false">Nualgi</string>
+    <string name="title_activity_login" translatable="false">LoginActivity</string>
+    <string name="prompt_email" translatable="false">Email</string>
+    <string name="prompt_password" translatable="false">Password</string>
+    <string name="action_sign_in" translatable="false">Sign in or register</string>
+    <string name="action_sign_in_short" translatable="false">Sign in</string>
+    <string name="Continue" translatable="false">Continue</string>
+    <string name="accept_login" translatable="false">By clicking "continue" button you agree to accept our \n<a href="Terms of use &amp; Privacy policy"></a></string>
+    <string name="skip" translatable="false">Skip</string>
+    <string name="welcome" translatable="false">"Welcome !"</string>
+    <string name="welcome_to" translatable="false">Welcome to</string>
+    <string name="nualgi_family" translatable="false">Nualgi Family</string>
+    <string name="invalid_username" translatable="false">Not a valid username</string>
+    <string name="invalid_password" translatable="false">Password must be >5 characters</string>
+    <string name="login_failed" translatable="false">"Login failed"</string>
+    <string name="select_language" translatable="false">"Select Language</string>
+    <string name="name" translatable="false"> Full Name*</string>
+    <string name="mobile" translatable="false"> Mobile Number*</string>
+    <string name="pin" translatable="false"> Pincode*</string>
+    <string name="landmark" translatable="false">Landmark*</string>
+    <string name="city" translatable="false"> City*</string>
+    <string name="state" translatable="false"> State*</string>
+    <string name="house" translatable="false"> House Name/House Number</string>
+    <string name="addresstype" translatable="false">Address Type</string>
+    <string name="work" translatable="false">Work</string>
+    <string name="add" translatable="false">Add</string>
+    <string name="home">Home</string>
+    <string name="my_orders">My Orders</string>
+    <string name="profile">Profile</string>
+    <string name="title_activity_dash" translatable="false">Dash</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_dashboard" translatable="false">Dashboard</string>
+    <string name="title_notifications" translatable="false">Notifications</string>
+    <string name="my_profile">My Profile</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="myprofile">My Profile</string>
+    <string name="language">Language</string>
+    <string name="address">Address</string>
+    <string name="rating">My Ratings &amp; Reviews</string>
+    <string name="contactus">Contact Us</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="corpAddress">Corporate Address</string>
+    <string name="nano">NUALGI NANOBIOTECH</string>
+    <string name="website">Website</string>
+    <string name="titledash">Farming for a better future with Nualgi</string>
+    <string name="drainageclean">Nualgi for cleaning drainage</string>
+</resources>
