@@ -3,19 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.284375" />
         <entry key="app/src/main/res/drawable/button_bg.xml" value="0.1785" />
         <entry key="app/src/main/res/drawable/edittext_border.xml" value="0.1785" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.131" />
+        <entry key="app/src/main/res/drawable/phone.xml" value="0.1785" />
         <entry key="app/src/main/res/drawable/radio_button.xml" value="0.1785" />
+        <entry key="app/src/main/res/drawable/rounded.xml" value="0.1785" />
         <entry key="app/src/main/res/drawable/rounded_bottomsheets.xml" value="0.1785" />
-        <entry key="app/src/main/res/layout/activity_address.xml" value="0.5" />
-        <entry key="app/src/main/res/layout/activity_dash.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/spinner_item_litre.xml" value="0.1785" />
+        <entry key="app/src/main/res/layout/activity_address.xml" value="0.39052581787109375" />
+        <entry key="app/src/main/res/layout/activity_dash.xml" value="0.37055206298828136" />
         <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.14175724637681159" />
-        <entry key="app/src/main/res/layout/activity_login.xml" value="0.5676373291015626" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.6870773315429688" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/activity_product_page.xml" value="0.39052581787109375" />
         <entry key="app/src/main/res/layout/activity_select_language.xml" value="0.14175724637681159" />
         <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.36298187255859377" />
         <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
         <entry key="app/src/main/res/menu/menu.xml" value="0.2578125" />
@@ -33,7 +38,7 @@
   <component name="VisualizationToolProject">
     <option name="state">
       <ProjectState>
-        <option name="scale" value="0.5" />
+        <option name="scale" value="0.6870773315429688" />
       </ProjectState>
     </option>
   </component>

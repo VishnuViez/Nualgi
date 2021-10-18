@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="home">Home</string>
-    <string name="my_orders">My Orders</string>
-    <string name="profile">Profile</string>
-    <string name="my_profile">My Profile</string>
-    <string name="textview">TextView</string>
-    <string name="todo">TODO</string>
-</resources>
